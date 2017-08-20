@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProfileManagerPro</string>
+    <string name="hello">Hello World, ProfileManagerProActivity!</string>
+    <string name="blank"></string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+
+</resources>
